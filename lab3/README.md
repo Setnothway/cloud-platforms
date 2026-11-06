@@ -4,7 +4,7 @@ Course: Облачные платформы как основа технолог
 Year: 2026/2027  
 Group: U4225  
 Author: Солдатов Егор Олегович  
-Lab: Lab2  
+Lab: Lab3  
 Date of create: 06.10.2026  
 Date of finished: 06.10.2026  
 
